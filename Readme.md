@@ -36,7 +36,7 @@ For the pavement spline that would sit behind the kerb, I recommend using the 1m
 ### 160mm
 
 Spline | 1 | 2 | 3
-- | - | - | -
+-- | -- | -- | --
 **Length** | 1m | `x` m | 1m 
 **Radius** | N/A | (`y`-0.4) m | N/A 
 **Gradient** | <p>Start: 3%</p><p>End: 3%</p> | <p>Start: 0%</p><p>End: 0%</p> | <p>Start: -3%</p><p>End: -3%</p> 
@@ -45,7 +45,7 @@ Spline | 1 | 2 | 3
 ### 180mm
 
 Spline | 1 | 2 | 4
-- | - | - | -
+-- | -- | -- | --
 **Length** | 1m | `x` m | 1m 
 **Radius** | N/A | (`y`-0.8) m | N/A 
 **Gradient** | <p>Start: 4%</p><p>End: 4%</p> | <p>Start: 0%</p><p>End: 0%</p> | <p>Start: -4%</p><p>End: -4%</p> 
