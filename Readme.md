@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/L9mVVWj.png)
+![image](header.png)
 
 Hi, and thanks for downloading the Kassel Kerb set for OMSI 2. Originally for a map project I started (then abandoned), I decided to make these kerbs available for all devs to use.
 
