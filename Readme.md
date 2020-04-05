@@ -53,4 +53,6 @@ Spline | 1 | 2 | 4
 
 # Copyrights
 
-`work on this bit, you're releasing it on git as well`
+All textures and models are Copyright © Jem (ˢᵗᵘᵈᶦᵒononoki) and thus must be unmodified when included with any maps, freeware or payware. ***I did not almost get run over by a taxi for no reason.***
+
+Please ensure to credit me through this repo (https://github.com/jem-suu/kassel) in your acknowledgements for your projects.
