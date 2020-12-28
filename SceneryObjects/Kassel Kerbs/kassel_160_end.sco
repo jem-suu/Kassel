@@ -7,3 +7,7 @@ Kassel Kerb Endpiece (160mm)
 
 [mesh]
 kassel_160_end.o3d
+
+[fixed]
+
+[surface]

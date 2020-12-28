@@ -7,3 +7,7 @@ Kassel Kerb Endpiece (180mm)
 
 [mesh]
 kassel_180_end.o3d
+
+[fixed]
+
+[surface]

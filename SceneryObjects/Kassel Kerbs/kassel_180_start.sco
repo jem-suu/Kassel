@@ -7,3 +7,7 @@ Kassel Kerb Startpiece (180mm)
 
 [mesh]
 kassel_180_start.o3d
+
+[fixed]
+
+[surface]
