@@ -8,7 +8,7 @@ I recommend to use the [UKDT DevKit Pathways pack](https://fellowsfilm.com/downl
 
 Please note, **This should not be a dependency for your map.**
 
-It is recommended to bundle these with your ScenryObjects/Splines library for your map so that installation is much easier.
+It is recommended to bundle these with your ScenryObjects/Splines library for your map so that installation is much easier for the end user.
 
 To bundle with your map, copy the contents of the `SceneryObjects` folder to your map's Sceneryobjects Library, commonly
 ```X:\OMSI 2\SceneryObjects\<your_map_name>```.
