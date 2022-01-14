@@ -11,3 +11,5 @@ kassel_180_start.o3d
 [fixed]
 
 [surface]
+
+[LightMapMapping]

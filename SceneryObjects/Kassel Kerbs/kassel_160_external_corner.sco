@@ -11,3 +11,5 @@ kassel_160_corner_out.o3d
 [fixed]
 
 [surface]
+
+[LightMapMapping]
